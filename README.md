@@ -18,5 +18,4 @@ Besides the documentation in the notebook the results can also be found in the f
 data from .. Kaggle link ..
 
 ## Source code
-
 git hub linkje
